@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working as a **Software Developer at ACURA Group Pty Ltd.**
+- 🔭 I’m currently working as a **Software Developer at Lumient.**
 
 - 🌱 I’m really proficient in **Full Stack Web Development having 4 different Tech companies Internships.** 
 
