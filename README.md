@@ -15,7 +15,7 @@
 
 <!-- - 👯 I’m looking to collaborate on **OpenSource Projects** -->
 
-- 👨‍💻 Check out my Personal Portfolio Website at **[My Portfolio](https://karan-21.github.io/MyWebSite/)**
+- 👨‍💻 Check out my Personal Portfolio Website at **[My Portfolio](https://website-d31b4.web.app/)**
 
 <!-- - 📫 How to reach me **karngupta21@gmail.com**
 
