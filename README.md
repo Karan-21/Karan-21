@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working as a **Software Developer at Lumient.**
+- 🔭 I’m currently working as a **Software Developer at Rapid Global.**
 
 - 🌱 I’m really proficient in **Full Stack Web Development having 4 different Tech companies Internships.** 
 
