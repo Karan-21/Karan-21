@@ -95,8 +95,6 @@
 <a href = "https://www.linkedin.com/in/karan-b1642a9a"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "mailto:karngupta21@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
 <a href = "https://github.com/Karan-21"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
-<a href = "https://www.instagram.com/karan.gupta.21/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.facebook.com/karn.gupta.90"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
 
 </p>
 
