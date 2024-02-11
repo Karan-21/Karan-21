@@ -62,7 +62,7 @@
 
 ## 📫 Reach me out!
 
-[![GitHub Badge](https://img.shields.io/badge/-Karan_Gupta-a8a3a3?style=flat&labelColor=a8a3a3&logo=github&logoColor=white)](https://github.com/Karan-21) [![Linkedin Badge](https://img.shields.io/badge/-Karan_Gupta-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karan-b1642a9a) [![Mail Badge](https://img.shields.io/badge/-Karan_Gupta-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:karngupta21@gmail.com) [![Mail Badge](https://img.shields.io/badge/-@Karan_Gupta-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/karan.gupta.21/) [![Mail Badge](https://img.shields.io/badge/-@Karan_Gupta-1178f5?style=flat&labelColor=1178f5&logo=facebook&logoColor=white)](https://www.facebook.com/karn.gupta.90)
+[![GitHub Badge](https://img.shields.io/badge/-Karan_Gupta-a8a3a3?style=flat&labelColor=a8a3a3&logo=github&logoColor=white)](https://github.com/Karan-21) [![Linkedin Badge](https://img.shields.io/badge/-Karan_Gupta-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karan-b1642a9a) [![Mail Badge](https://img.shields.io/badge/-Karan_Gupta-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:karngupta21@gmail.com)
 
 <br/>
 
