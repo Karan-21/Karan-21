@@ -25,6 +25,14 @@
 
 - 👨‍💻 Checkout my Portfolio to know about me more 👉 **[Personal Portfolio](https://karan-portfolio-one.vercel.app/)**.
 
+## 🏆 GitHub Profile Trophy
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)  -->
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 <!-- - 👯 I’m looking to collaborate on **OpenSource Projects** -->
@@ -33,14 +41,14 @@
 
 - ⚡ Fun fact **Strong Headed** -->
 
-<br/>
+<!-- <br/> -->
 
 <div align="center">
   <h2>🐍 My Contributions with Snake Game</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+  <br/>
 </div>
 
 ## ⭐️ Technologies I'm proficient at...
