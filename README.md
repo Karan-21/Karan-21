@@ -36,7 +36,7 @@
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Karan-21&row=6&column=6)
+![trophy](https://github-profile-trophy.vercel.app/?username=Karan-21&row=5&column=5)
 
 
 
@@ -208,14 +208,6 @@ Other                            X hrs Xsecs      ░░░░░░░░░░
 </a>
 </div>
 
-<h3 align="center">My Leetcode Badges</h3>
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
-   <img src="Assets_Used/LeetCodeBadges/2024-50.gif?raw=true" alt="Leetcode 50 Days Badge" width="100px" height="100px" />
-   <img src="Assets_Used/LeetCodeBadges/25-50.gif?raw=true" alt="Leetcode 50 Days Badge" width="100px" height="100px" />
-   <img src="Assets_Used/LeetCodeBadges/25-100.gif?raw=true" alt="Leetcode 50 Days Badge" width="100px" height="100px" />
-   <img src="Assets_Used/LeetCodeBadges/StreakCoin.gif?raw=true" alt="Leetcode 50 Days Badge" width="100px" height="100px" />
-</div>
-
 <h2 align="center">📫 Let's Connect!</h2>
 
 <table align="center">
@@ -249,28 +241,28 @@ Other                            X hrs Xsecs      ░░░░░░░░░░
         <a href="https://wa.me/61413312349" target="_blank">
           <img src="https://img.icons8.com/color/96/000000/phone--v1.png" alt="WhatsApp Australia" style="width: 80px; margin: 10px;">
           <br>
-          +61-413-312-349
+          +61-413312349
         </a>
       </td>
       <td align="center">
         <a href="mailto:karngupta21@gmail.com" target="_blank">
           <img src="https://img.icons8.com/color/96/000000/portfolio--v1.png" alt="Portfolio" style="width: 80px; margin: 10px;">
           <br>
-          Karan's Personal Portfolio
+          Personal Portfolio
         </a>
       </td>
       <td align="center">
         <a href="mailto:karngupta21@gmail.com" target="_blank">
           <img src="https://img.icons8.com/color/96/000000/facebook.png" alt="Portfolio" style="width: 80px; margin: 10px;">
           <br>
-          Karan's Facebook
+         Karan Gupta
         </a>
       </td>
       <td align="center">
         <a href="mailto:karngupta21@gmail.com" target="_blank">
           <img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="Portfolio" style="width: 80px; margin: 10px;">
           <br>
-          Karan's Instagram
+          Karan Gupta
         </a>
       </td>
     </tr>
@@ -285,6 +277,3 @@ Other                            X hrs Xsecs      ░░░░░░░░░░
 </div>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-  
-
-
