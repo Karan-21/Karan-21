@@ -13,13 +13,13 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" align="right" width="250">
 
-- ✍️ Graduated from **Bachelor of Computer Science from The University of Adelaide.**
+- ✍️ **Bachelor of Computer Science from The University of Adelaide.**
 
 - 🔭 Currently working as a **Full Stack Software Developer at Rapid Global.**
 
 - 🌱 I’m Highly proficient in **Full Stack Web Development having 4 Internships and 2 Part-Time Jobs as a Software Engineer.**
 
-- ✅ Achieved **6 Full-Time Job Offers and a Fully Funded PhD** at The Australia Institute of Machine Learning.
+- ✅ Achieved **9 Full-Time Job Offers and a Fully Funded PhD** at The Australia Institute of Machine Learning.
 
 - 💻 Solved **500+ Data Structures and Algorithm Questions on 👉[Leetcode](https://leetcode.com/u/karngupta21/) with an Annual Badge of 300+ Day of consistency.**
 
@@ -43,19 +43,10 @@
 
 <!-- <br/> -->
 
-![3D Profile](profile-3d-contrib/profile-night-rainbow.svg?sanitize=true)
-
 <div align="center">
   <h2>🐍 My Contributions with Snake Game</h2>
   <br>
   <img alt="snake eating my contributions" src="https://github.com/UtkarshPathrabe/UtkarshPathrabe/blob/output/github-contribution-grid-snake-dark.svg" />
-
-
-<p align="center" style='margin: 8px 4px;'>
-    <img src="https://github.com/UtkarshPathrabe/UtkarshPathrabe/blob/output/github-contribution-grid-snake-dark.svg" alt="utkarsh pathrabe stats snake" />
-</p>
-  
-  
   <br/>
 </div>
 
