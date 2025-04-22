@@ -31,7 +31,7 @@
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Karan-21&row=6&column=6)]
+![trophy](https://github-profile-trophy.vercel.app/?username=Karan-21&row=6&column=6)
 
 
 
@@ -43,10 +43,18 @@
 
 <!-- <br/> -->
 
+![3D Profile](profile-3d-contrib/profile-night-rainbow.svg?sanitize=true)
+
 <div align="center">
   <h2>🐍 My Contributions with Snake Game</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://github.com/UtkarshPathrabe/UtkarshPathrabe/blob/output/github-contribution-grid-snake-dark.svg" />
+
+
+<p align="center" style='margin: 8px 4px;'>
+    <img src="https://github.com/UtkarshPathrabe/UtkarshPathrabe/blob/output/github-contribution-grid-snake-dark.svg" alt="utkarsh pathrabe stats snake" />
+</p>
+  
   
   <br/>
 </div>
