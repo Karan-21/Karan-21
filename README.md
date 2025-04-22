@@ -1,5 +1,7 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
 <!-- <h1 align="center">Hi, I'm Karan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1> -->
@@ -50,6 +52,9 @@
   <br/>
 </div>
 
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
 ## ⭐️ Technologies I'm proficient at...
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Expressjs Badge](https://img.shields.io/badge/-ExpressJS-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) [![Firebase Badge](https://img.shields.io/badge/-Firebase-fba161?style=for-the-badge&labelColor=black&logo=firebase&logoColor=fba161)](#) -->
 
@@ -87,8 +92,9 @@
 
 <br/>
 
-
 <h2>🟢 My LeetCode Problem Solving Profile </h2>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ![](https://leetcard.jacoblin.cool/karngupta21?ext=heatmap)
 
@@ -140,44 +146,128 @@ Other                            X hrs Xsecs      ░░░░░░░░░░
 
 </p> -->
 
-<br/>
-
-## 📫 Reach me out!
-
-[![GitHub Badge](https://img.shields.io/badge/-Karan-a8a3a3?style=flat&labelColor=a8a3a3&logo=github&logoColor=white)](https://github.com/Karan-21) [![Linkedin Badge](https://img.shields.io/badge/-Karan-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karan-b1642a9a) [![Mail Badge](https://img.shields.io/badge/-Karan-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:karngupta21@gmail.com)
-
-<br/>
-
-<p align="center">
-    <a href="https://github.com/Karan-21/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Karan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Karan-21&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## 📊 My Github Stats
 
-  <br/>
-    <a href="https://github.com/Karan-21/github-readme-stats"><img alt="Karan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Karan-21&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Karan-21/github-readme-stats"><img alt="Karan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karan-21&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<div align="center">
+ 
+  <img src="https://streak-stats.demolab.com/?user=Karan-21&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <br>
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karan-21&custom_title=Kenan's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+<br>
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karan-21&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Karan-21&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Karan-21&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Karan-21&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Kenan's GitHub stats">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karan-21&theme=highcontrast&hide_border=true">
+
+
+### 🚀 GitHub Contribution Chart
+<a href="https://github.com/Karan-21">
+    <img src="https://ghchart.rshah.org/Karan-21" alt="Karan's GitHub Contribution Chart">
+</a>
 
 <br/>
 
-## Connect with me:
+## 🥇 My Achievements
 
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/karan-b1642a9a"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "mailto:karngupta21@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
-<a href = "https://github.com/Karan-21"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
-<a href = "https://karan-portfolio-one.vercel.app/"><img src="https://img.icons8.com/fluent/48/000000/portfolio.png"/></a>
-
-</p>
-
-## ❤ Views and Followers
-
-<a href="https://github.com/SubhamRaoniar28/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
+### My Github Badges
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://github.com/UjjwalSaini07">
+  <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Github%20Badges/quickdraw-default.png?raw=true" width="100px" height="100px" />
+  <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Github%20Badges/pair-extraordinaire-default.png?raw=true" width="100px" height="100px" />
+  <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Github%20Badges/yolo-default.png?raw=true" width="100px" height="100px" />
+  <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Github%20Badges/pull-shark-default.png?raw=true" width="100px" height="100px" />
+  <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Github%20Badges/starstruck-default.png?raw=true" width="100px" height="100px" />
+  <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Github%20Badges/heart-on-your-sleeve-default.png?raw=true" width="100px" height="100px" />
+  <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Github%20Badges/galaxy-brain-default.png?raw=true" width="100px" height="100px" />
 </a>
-<a href="https://github.com/Karan-21?tab=followers"><img src="https://img.shields.io/github/followers/Karan-21?label=Followers&style=social" alt="GitHub Badge"></a>
+</div>
+
+### My GSSOC(24) Badges
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+  <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/GSsocBadges/Badge1.png?raw=true" width="100px" height="100px" />
+  <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/GSsocBadges/Badge2.png?raw=true" width="100px" height="100px" />
+  <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/GSsocBadges/Badge3.png?raw=true" width="100px" height="100px" />
+  <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/GSsocBadges/Badge4.png?raw=true" width="100px" height="100px" />
+  <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/GSsocBadges/Badge5.png?raw=true" width="100px" height="100px" />
+  <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/GSsocBadges/Badge6.png?raw=true" width="100px" height="100px" />
+  <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/GSsocBadges/PostMan.png?raw=true" width="100px" height="100px" />
+</a>
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">s
+
+<h2 align="center">📫 Let's Connect!</h2>
+
+<table align="center">
+<thead>
+    <tr>
+      <th>Email</th>
+      <th>LinkedIn</th>
+      <th>Phone</th>
+      <th>Portfolio</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="mailto:karngupta21@gmail.com" target="_blank">
+          <img src="https://img.icons8.com/color/96/000000/gmail--v1.png" alt="Email" style="width: 80px; margin: 10px;">
+          <br>
+          karngupta21@gmail.com
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/karan-b1642a9a/" target="_blank">
+          <img src="https://img.icons8.com/color/96/000000/linkedin--v1.png" alt="WhatsApp Canada" style="width: 80px; margin: 10px;">
+          <br>
+          Karan Gupta
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://wa.me/61413312349" target="_blank">
+          <img src="https://img.icons8.com/color/96/000000/phone--v1.png" alt="WhatsApp Australia" style="width: 80px; margin: 10px;">
+          <br>
+          +61-413-312-349
+        </a>
+      </td>
+      <td align="center">
+        <a href="mailto:karngupta21@gmail.com" target="_blank">
+          <img src="https://img.icons8.com/color/96/000000/portfolio--v1.png" alt="Portfolio" style="width: 80px; margin: 10px;">
+          <br>
+          Karan's Personal Portfolio
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div align="center">
+
+⭐️ From [Karan Gupta](https://github.com/Karan-21) | Let's work and innovate together!
+
+<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" height="50px">
+
+
+![MasterHead](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+  
