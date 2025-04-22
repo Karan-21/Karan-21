@@ -2,7 +2,10 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%" />
+
+![MasterHead](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)
+
 
 <!-- <h1 align="center">Hi, I'm Karan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1> -->
 <h1 align="center">
@@ -52,9 +55,6 @@
   <br/>
 </div>
 
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
 ## ⭐️ Technologies I'm proficient at...
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Expressjs Badge](https://img.shields.io/badge/-ExpressJS-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) [![Firebase Badge](https://img.shields.io/badge/-Firebase-fba161?style=for-the-badge&labelColor=black&logo=firebase&logoColor=fba161)](#) -->
 
@@ -93,8 +93,6 @@
 <br/>
 
 <h2>🟢 My LeetCode Problem Solving Profile </h2>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ![](https://leetcard.jacoblin.cool/karngupta21?ext=heatmap)
 
@@ -146,8 +144,6 @@ Other                            X hrs Xsecs      ░░░░░░░░░░
 
 </p> -->
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
 ## 📊 My Github Stats
 
 <div align="center">
@@ -170,7 +166,7 @@ Other                            X hrs Xsecs      ░░░░░░░░░░
     </td>
   </tr>
 </table>
-
+</div>
 </div>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Karan-21&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Kenan's GitHub stats">
@@ -178,7 +174,7 @@ Other                            X hrs Xsecs      ░░░░░░░░░░
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karan-21&theme=highcontrast&hide_border=true">
 
 
-### 🚀 GitHub Contribution Chart
+## 🚀 GitHub Contribution Chart
 <a href="https://github.com/Karan-21">
     <img src="https://ghchart.rshah.org/Karan-21" alt="Karan's GitHub Contribution Chart">
 </a>
@@ -187,7 +183,8 @@ Other                            X hrs Xsecs      ░░░░░░░░░░
 
 ## 🥇 My Achievements
 
-### My Github Badges
+###  My Github Badges
+
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://github.com/UjjwalSaini07">
   <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Github%20Badges/quickdraw-default.png?raw=true" width="100px" height="100px" />
   <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Github%20Badges/pair-extraordinaire-default.png?raw=true" width="100px" height="100px" />
@@ -195,7 +192,7 @@ Other                            X hrs Xsecs      ░░░░░░░░░░
   <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Github%20Badges/pull-shark-default.png?raw=true" width="100px" height="100px" />
   <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Github%20Badges/starstruck-default.png?raw=true" width="100px" height="100px" />
   <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Github%20Badges/heart-on-your-sleeve-default.png?raw=true" width="100px" height="100px" />
-  <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Github%20Badges/galaxy-brain-default.png?raw=true" width="100px" height="100px" />
+  <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Github%20Badges/galaxy-brain-default.png?raw=true" width="100px" height="100px" /s>
 </a>
 </div>
 
@@ -210,8 +207,6 @@ Other                            X hrs Xsecs      ░░░░░░░░░░
   <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/GSsocBadges/PostMan.png?raw=true" width="100px" height="100px" />
 </a>
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">s
 
 <h2 align="center">📫 Let's Connect!</h2>
 
@@ -263,11 +258,9 @@ Other                            X hrs Xsecs      ░░░░░░░░░░
 ⭐️ From [Karan Gupta](https://github.com/Karan-21) | Let's work and innovate together!
 
 <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" height="50px">
-
-
-![MasterHead](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)
-
 </div>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
   
+
+
