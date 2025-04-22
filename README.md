@@ -100,7 +100,7 @@
 
 <br/>
 
-📊 **My Weekly Time Spent On:**
+🕰 **My Weekly Time Spent On:**
 <!--START_SECTION:waka-->
 
 ```txt
@@ -173,18 +173,18 @@ Other                            X hrs Xsecs      ░░░░░░░░░░
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karan-21&theme=highcontrast&hide_border=true">
 
-
-## 🚀 GitHub Contribution Chart
+<div align="center">
+<h2>🚀 GitHub Contribution Chart</h2>
 <a href="https://github.com/Karan-21">
     <img src="https://ghchart.rshah.org/Karan-21" alt="Karan's GitHub Contribution Chart">
 </a>
+</div>
 
 <br/>
 
 ## 🥇 My Achievements
 
-###  My Github Badges
-
+<h3 align="center">My Github Badges</h3>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://github.com/UjjwalSaini07">
   <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Github%20Badges/quickdraw-default.png?raw=true" width="100px" height="100px" />
   <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Github%20Badges/pair-extraordinaire-default.png?raw=true" width="100px" height="100px" />
@@ -196,7 +196,7 @@ Other                            X hrs Xsecs      ░░░░░░░░░░
 </a>
 </div>
 
-### My GSSOC(24) Badges
+<h3 align="center">My GSSOC(24) Badges</h3>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
   <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/GSsocBadges/Badge1.png?raw=true" width="100px" height="100px" />
   <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/GSsocBadges/Badge2.png?raw=true" width="100px" height="100px" />
@@ -208,6 +208,14 @@ Other                            X hrs Xsecs      ░░░░░░░░░░
 </a>
 </div>
 
+<h3 align="center">My Leetcode Badges</h3>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+   <img src="Assets_Used/LeetCodeBadges/2024-50.gif?raw=true" alt="Leetcode 50 Days Badge" width="100px" height="100px" />
+   <img src="Assets_Used/LeetCodeBadges/25-50.gif?raw=true" alt="Leetcode 50 Days Badge" width="100px" height="100px" />
+   <img src="Assets_Used/LeetCodeBadges/25-100.gif?raw=true" alt="Leetcode 50 Days Badge" width="100px" height="100px" />
+   <img src="Assets_Used/LeetCodeBadges/StreakCoin.gif?raw=true" alt="Leetcode 50 Days Badge" width="100px" height="100px" />
+</div>
+
 <h2 align="center">📫 Let's Connect!</h2>
 
 <table align="center">
@@ -217,6 +225,8 @@ Other                            X hrs Xsecs      ░░░░░░░░░░
       <th>LinkedIn</th>
       <th>Phone</th>
       <th>Portfolio</th>
+      <th>Facebook</th>
+      <th>Instagram</th>
     </tr>
   </thead>
   <tbody>
@@ -247,6 +257,20 @@ Other                            X hrs Xsecs      ░░░░░░░░░░
           <img src="https://img.icons8.com/color/96/000000/portfolio--v1.png" alt="Portfolio" style="width: 80px; margin: 10px;">
           <br>
           Karan's Personal Portfolio
+        </a>
+      </td>
+      <td align="center">
+        <a href="mailto:karngupta21@gmail.com" target="_blank">
+          <img src="https://img.icons8.com/color/96/000000/facebook.png" alt="Portfolio" style="width: 80px; margin: 10px;">
+          <br>
+          Karan's Facebook
+        </a>
+      </td>
+      <td align="center">
+        <a href="mailto:karngupta21@gmail.com" target="_blank">
+          <img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="Portfolio" style="width: 80px; margin: 10px;">
+          <br>
+          Karan's Instagram
         </a>
       </td>
     </tr>
