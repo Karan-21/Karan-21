@@ -36,8 +36,7 @@
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Karan-21&row=5&column=5)
-
+![trophy](https://github-profile-trophy.vercel.app/?username=Karan-21&row=10&column=7)
 
 
 <!-- - 👯 I’m looking to collaborate on **OpenSource Projects** -->
@@ -176,7 +175,7 @@ Other                            X hrs Xsecs      ░░░░░░░░░░
 <div align="center">
 <h2>🚀 GitHub Contribution Chart</h2>
 <a href="https://github.com/Karan-21">
-    <img src="https://ghchart.rshah.org/Karan-21" alt="Karan's GitHub Contribution Chart">
+    <img src="https://ghchart.rshah.org/Karan-21" alt="Karan's GitHub Contribution Chart" width="100%">
 </a>
 </div>
 
@@ -208,7 +207,9 @@ Other                            X hrs Xsecs      ░░░░░░░░░░
 </a>
 </div>
 
-<h2 align="center">📫 Let's Connect!</h2>
+<br/>
+
+## 📫 Let's Connect!
 
 <table align="center">
 <thead>
@@ -245,22 +246,22 @@ Other                            X hrs Xsecs      ░░░░░░░░░░
         </a>
       </td>
       <td align="center">
-        <a href="mailto:karngupta21@gmail.com" target="_blank">
+        <a href="https://karan-portfolio-one.vercel.app/" target="_blank">
           <img src="https://img.icons8.com/color/96/000000/portfolio--v1.png" alt="Portfolio" style="width: 80px; margin: 10px;">
           <br>
           Personal Portfolio
         </a>
       </td>
       <td align="center">
-        <a href="mailto:karngupta21@gmail.com" target="_blank">
-          <img src="https://img.icons8.com/color/96/000000/facebook.png" alt="Portfolio" style="width: 80px; margin: 10px;">
+        <a href="https://www.facebook.com/karn.gupta.90" target="_blank">
+          <img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook" style="width: 80px; margin: 10px;">
           <br>
          Karan Gupta
         </a>
       </td>
       <td align="center">
-        <a href="mailto:karngupta21@gmail.com" target="_blank">
-          <img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="Portfolio" style="width: 80px; margin: 10px;">
+        <a href="https://www.instagram.com/karan.gupta.21/" target="_blank">
+          <img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="Instagram" style="width: 80px; margin: 10px;">
           <br>
           Karan Gupta
         </a>
