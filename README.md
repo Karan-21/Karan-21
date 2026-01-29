@@ -20,7 +20,7 @@
 
 - ✍️ **Bachelor of Computer Science from The University of Adelaide.**
 
-- 🔭 Currently working as a **Full Stack Software Developer at Rapid Global.**
+- 🔭 Currently working as a **Lead Software Engineer at Allied AU.**
 
 - 🌱 I’m Highly proficient in **Full Stack Web Development having 4 Internships and 2 Part-Time Jobs as a Software Engineer.**
 
